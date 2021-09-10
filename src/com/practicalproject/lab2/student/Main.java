@@ -1,4 +1,4 @@
-package com.lab2.student;
+package com.practicalproject.lab2.student;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package com.lab2.student;
+package com.practicalproject.lab2.student;
 
 public class Student implements Comparable<Student>{
 	int no;
