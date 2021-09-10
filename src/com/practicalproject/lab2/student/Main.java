@@ -12,7 +12,21 @@ public class Main {
 		arryList.add(s1);
 		Student s2 = new Student(102, "Choi", 21);
 		arryList.add(s2);
-		arryList.add(new Student(103, "Park", 25));
+		Student s3 = new Student(103, "Seo", 21);
+		arryList.add(s3);
+		Student s4 = new Student(104, "Kook", 21);
+		arryList.add(s4);
+		Student s5 = new Student(105, "Lee", 21);
+		arryList.add(s5);
+		Student s6 = new Student(106, "Jeong", 21);
+		arryList.add(s6);
+		Student s7 = new Student(107, "Cho", 21);
+		arryList.add(s7);
+		Student s8 = new Student(108, "Hwang", 21);
+		arryList.add(s8);
+		Student s9 = new Student(109, "Kang", 21);
+		arryList.add(s9);
+		arryList.add(new Student(110, "Park", 25));
 		
 		Collections.sort(arryList);
 		for (Student s : arryList) {
